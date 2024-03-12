@@ -2,7 +2,7 @@
 
 This repository contains code for implementing client-server communication using Modbus TCP/IP over WiFi protocol between a PC and an ESP32 controller. The purpose of this implementation is to facilitate reading and writing of Digital Inputs (DI), Digital Outputs (DO), Analog Inputs (AI), and Analog Outputs (AO).
 
-![Connection](https://github.com/Vistx/Modbus-TCP-IP-over-WiFi-Implementation/assets/123487221/f3ad062a-e550-4c23-afda-ffc3aac74641)
+![Connection](https://github.com/Vistx/Modbus-TCP-IP-over-WiFi-Implementation/assets/123487221/8f2795b0-1a7d-4b11-8f98-33c61bafc962)
 
 ## Programming languages used
 
@@ -25,7 +25,7 @@ This repository contains code for implementing client-server communication using
 -   GPIO 21 is connected to the SDA (I2C Data) pin of the LCD.
 -   Ensure all modules are connected to a power supply for proper operation.
 
-![Wiring1](https://github.com/Vistx/Modbus-TCP-IP-over-WiFi-Implementation/assets/123487221/e330e063-6b1d-4f14-bfb5-9c1a2639fba0)
+![Wiring1](https://github.com/Vistx/Modbus-TCP-IP-over-WiFi-Implementation/assets/123487221/b64cefba-36f4-44a4-ae0d-51f1e972b095)
 
 ## Usage
 1.  Clone this repository.
@@ -34,4 +34,4 @@ This repository contains code for implementing client-server communication using
 4.  Flash the ESP32 controller using the provided code in Visual Studio Code with the PlatformIO extension.
 5.  Run the PC application and connect to the ESP32 controller over WiFi.
 
-![Live](https://github.com/Vistx/Modbus-TCP-IP-over-WiFi-Implementation/assets/123487221/59c86e85-9871-4267-bed6-7861c24103e7)
+![Live](https://github.com/Vistx/Modbus-TCP-IP-over-WiFi-Implementation/assets/123487221/d4b1642d-fac1-4706-bf28-56c48d9792ab)
