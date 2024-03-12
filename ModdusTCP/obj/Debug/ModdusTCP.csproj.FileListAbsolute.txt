@@ -1,0 +1,26 @@
+C:\Users\Lenovo\source\repos\ModdusTCP\bin\Debug\ModdusTCP.exe.config
+C:\Users\Lenovo\source\repos\ModdusTCP\bin\Debug\ModdusTCP.exe
+C:\Users\Lenovo\source\repos\ModdusTCP\bin\Debug\ModdusTCP.pdb
+C:\Users\Lenovo\source\repos\ModdusTCP\bin\Debug\NModbus4.dll
+C:\Users\Lenovo\source\repos\ModdusTCP\bin\Debug\NModbus4.xml
+C:\Users\Lenovo\source\repos\ModdusTCP\obj\Debug\ModdusTCP.Form1.resources
+C:\Users\Lenovo\source\repos\ModdusTCP\obj\Debug\ModdusTCP.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\ModdusTCP\obj\Debug\ModdusTCP.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ModdusTCP\obj\Debug\ModdusTCP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ModdusTCP\obj\Debug\ModdusTCP.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ModdusTCP\obj\Debug\ModdusTCP.exe
+C:\Users\Lenovo\source\repos\ModdusTCP\obj\Debug\ModdusTCP.pdb
+C:\Users\Lenovo\source\repos\ModdusTCP\obj\Debug\ModdusTCP.csproj.AssemblyReference.cache
+C:\Users\Art laptop\Desktop\Ideapad\Desktop Ideapad\ModdusTCP\bin\Debug\ModdusTCP.exe.config
+C:\Users\Art laptop\Desktop\Ideapad\Desktop Ideapad\ModdusTCP\bin\Debug\ModdusTCP.exe
+C:\Users\Art laptop\Desktop\Ideapad\Desktop Ideapad\ModdusTCP\bin\Debug\ModdusTCP.pdb
+C:\Users\Art laptop\Desktop\Ideapad\Desktop Ideapad\ModdusTCP\bin\Debug\NModbus4.dll
+C:\Users\Art laptop\Desktop\Ideapad\Desktop Ideapad\ModdusTCP\bin\Debug\NModbus4.xml
+C:\Users\Art laptop\Desktop\Ideapad\Desktop Ideapad\ModdusTCP\obj\Debug\ModdusTCP.csproj.AssemblyReference.cache
+C:\Users\Art laptop\Desktop\Ideapad\Desktop Ideapad\ModdusTCP\obj\Debug\ModdusTCP.Form1.resources
+C:\Users\Art laptop\Desktop\Ideapad\Desktop Ideapad\ModdusTCP\obj\Debug\ModdusTCP.Properties.Resources.resources
+C:\Users\Art laptop\Desktop\Ideapad\Desktop Ideapad\ModdusTCP\obj\Debug\ModdusTCP.csproj.GenerateResource.cache
+C:\Users\Art laptop\Desktop\Ideapad\Desktop Ideapad\ModdusTCP\obj\Debug\ModdusTCP.csproj.CoreCompileInputs.cache
+C:\Users\Art laptop\Desktop\Ideapad\Desktop Ideapad\ModdusTCP\obj\Debug\ModdusTCP.csproj.CopyComplete
+C:\Users\Art laptop\Desktop\Ideapad\Desktop Ideapad\ModdusTCP\obj\Debug\ModdusTCP.exe
+C:\Users\Art laptop\Desktop\Ideapad\Desktop Ideapad\ModdusTCP\obj\Debug\ModdusTCP.pdb
